@@ -1,0 +1,12 @@
+eigenfaces
+orl_faces
+YALE
+main.py
+*.txt
+*.pyc
+*.png
+*.dat
+*.gz
+.idea/
+*.swp
+*.pgm
